@@ -1,7 +1,7 @@
 [submodule "sealdice-core"]
 	path = sealdice-core
-	url = https://github.com/sealdice/sealdice-core
-	branch = master
+	url = https://github.com/kenichiLyon/sealdice-core
+	branch = fix-index-out-of-range
 [submodule "sealdice-ui"]
 	path = sealdice-ui
 	url = https://github.com/sealdice/sealdice-ui
